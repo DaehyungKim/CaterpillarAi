@@ -1,0 +1,43 @@
+0: 'search_book_title',         # 특정 책 제목 검색
+1: 'search_book_author',        # 특정 작가 책 검색
+2: 'search_book_isbn',          # ISBN으로 도서 검색
+3: 'search_book_call_number',   # 청구기호로 도서 검색
+4: 'search_keyword',            # 일반 키워드/주제 검색 (도서 중심)
+5: 'get_book_location',         # 특정 도서 위치 검색
+6: 'check_book_availability',   # 도서 대출 가능 여부 확인
+7: 'get_bestseller',            # 베스트셀러 요청
+8: 'get_new_releases',          # 신간 요청
+9: 'request_recommendation_genre', # 장르 기반 추천
+10: 'request_recommendation_mood',  # 분위기/상황 기반 추천
+11: 'request_recommendation_topic', # 특정 주제/소재 기반 추천
+12: 'request_recommendation_similar',# 특정 책과 비슷한 책 추천
+13: 'request_recommendation_reader',# 특정 독자층 대상 추천
+14: 'search_space_availability', # 공간 이용 가능 여부 검색
+15: 'reserve_space',             # 특정 공간 예약 요청
+16: 'get_space_info',            # 특정 종류/이름의 공간 정보 문의
+17: 'check_space_reservation',   # 자신의 공간 예약 내역 확인
+18: 'cancel_space_reservation',  # 공간 예약 취소 요청
+19: 'search_program',            # 특정 조건의 프로그램/강좌 검색
+20: 'apply_program',             # 특정 프로그램/강좌 신청 요청
+21: 'get_program_info',          # 특정 프로그램/강좌 상세 정보 문의
+22: 'check_program_application', # 자신의 프로그램 신청 내역 확인
+23: 'cancel_program_application',# 프로그램 신청 취소 요청
+24: 'get_library_info',          # 도서관 정보 문의 (운영시간, 휴관일, 와이파이 등)
+25: 'inquire_service',           # 특정 서비스 이용 문의 (프린트, 복사, 노트북 대여 등)
+26: 'manage_membership',         # 회원 가입, 탈퇴, 회원증 재발급 등 문의/요청
+27: 'check_loan_status',         # 자신의 대출 현황 확인
+28: 'extend_loan',               # 대출 연장 요청
+29: 'reserve_book',              # 도서 예약 요청
+30: 'check_reservation_status',  # 자신의 도서 예약 현황 확인
+31: 'cancel_book_reservation',   # 도서 예약 취소 요청
+32: 'check_overdue_status',      # 연체 정보 및 연체료 확인
+33: 'report_lost_item',          # 분실물(회원증, 도서 등) 신고
+34: 'greeting',                  # 인사
+35: 'gratitude',                 # 감사
+36: 'closing',                   # 대화 종료
+37: 'affirmative',               # 긍정
+38: 'negative',                  # 부정
+39: 'abuse',                     # 모욕
+40: 'clarification',             # 추가 설명 요청 / 모호함 해소 요청
+41: 'out_of_scope',              # 모델 능력 밖의 질문 / 처리 불가 안내
+42: 'repeat',                    # 이전 내용 반복 요청
