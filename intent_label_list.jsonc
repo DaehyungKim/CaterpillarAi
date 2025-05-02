@@ -1,10 +1,7 @@
 [
   "search_book_title",
   "search_book_author",
-  "search_book_isbn",
-  "search_book_call_number",
-  "search_keyword",
-  "get_book_location",
+  "search_book_location",
   "check_book_availability",
   "get_bestseller",
   "get_new_releases",
