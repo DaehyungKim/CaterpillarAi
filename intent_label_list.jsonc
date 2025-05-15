@@ -20,7 +20,7 @@
   "get_program_info",
   "check_program_application",
   "cancel_program_application",
-  "get_library_info",
+  "get_library_hours",
   "inquire_service",
   "manage_membership",
   "check_loan_status",
