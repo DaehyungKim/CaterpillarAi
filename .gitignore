@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+
+# VSCode
+.vscode/
+.history/
+
+# Model & Results
+models/
+results/
+logs/
+library_chatbot_model/
+korean_library_chatbot_model/
+
+# Datasets & Cache
+*.cache/
+*.dataset/
+*.log
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Ignore user data
+*.swp
+*.swo
+
+# Ignore large data files
+*.tar
+*.zip
+*.gz
+*.rar
+
+# Ignore JSON data files (if not tracked)
+intent_data.json
+intent_label_list.json
+ner_data.json

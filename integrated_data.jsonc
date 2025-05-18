@@ -1,0 +1,3268 @@
+
+
+[
+  {
+    "text": "오힘찬의 플로라가 요즘 핫하던데.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "스즈미야 하루히의 우울 있잖아 크리스토퍼 라이트이 쓴 책 그거 알아?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "BOOK"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "서승완작가의 신작 정관스님 나의 음식 읽어봤어?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "요즘 베스트셀러라는 오기 마치 그거 이가라시 마사쿠니작가가 쓴 거 맞지?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "type": "BOOK"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "나는 제임스 해밀턴 작가 스타일 좋아서 다정한 거인도 기대돼.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "두더지 잡기를 읽고 있는데, 역시 이진우작가 필력 대단해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "친구가 이토록 굉장한 세계가 재밌다고 추천해줬어. 작가는 알베르 카뮈래.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "type": "BOOK"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "서점에서 브라이언 그린의 어른 김장하 각본을 봤는데 살까 말까 고민중이야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이번에 사이먼 반즈작가가 쓴 드래곤볼 SD 8 꼭 읽어보려고.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 10,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "그 비스크 돌은 사랑을 한다 14라는 책 알아? 저자가 대니얼 C. 데닛인데 유명하더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "type": "BOOK"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "도서관에서 오스카와 루신다 빌렸어. 모쿠모쿠렌의 작품이래.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "type": "BOOK"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "룰루 밀러의 작가노동 선언 예약 판매 시작했던데?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이제 당신의 손을 놓겠습니다 다 읽었어? 타치바나 오레코작가 다음 작품은 언제 나온대?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "type": "BOOK"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "유튜브에서 타치바나 오레코 작가가 독서의 뇌과학을 소개하는 거 봤어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "안유석의 영혼의 건축가들이 드라마로도 나온다던데?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 5,
+        "end": 13,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "인터넷 서점에서 브람스를 좋아하세요로 검색해봤는데, 메리 셸리 작가 책이더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 9,
+        "end": 19,
+        "type": "BOOK"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "혹시 호시노 미즈키 작가가 쓴 코린 읽어보신 분 계세요?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 10,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "트럼프는 김정은에게 무엇을 원하는가 그거 후쿠다 신이치 작가 대표작이잖아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "type": "BOOK"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "내 인생 책은 마르틴 부버 작가의 카밀라야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "선물로 류선규의 제국의 음모 받았어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "김범준 작가의 우리아이 꼭 지켜줄게 드디어 출간됐네!",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "오늘 이 결혼은 어차피 망하게 되어 있다 6 샀다! 히다노 켄타로 작가 완전 팬이거든.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 24,
+        "type": "BOOK"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "벨아미를 읽고 후쿠다 신이치한테 완전 빠졌어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "주변에서 다들 박필의 리얼 이탈리아 이야기만 해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "봇치·더·록! 7 아직 안 읽어봤으면 꼭 읽어봐. 맥스 베넷 작가 진짜 최고야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "BOOK"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "이철희 작가가 쓴 책은 엘리너 올리펀트 말고 또 뭐 있어?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "나는 필 스터츠의 내면강화보다 박한슬 작가의 다른 작품이 더 좋더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 14,
+        "type": "BOOK"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "걸리버 읽다가 밤샜잖아. 마츠모토 나오야 작가 필력 미쳤어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "조혜련 작가 인터뷰 보니까 우리가 반짝이는 계절 집필 배경이 흥미롭더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "서평 찾아보니까 네오쇼코의 위버멘쉬 평점이 엄청 높아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "한국교회 첫 사건들이 영화화된다는데, 김일환도 참여할까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "BOOK"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "아서 코난 도일 작가의 글쓰기 스타일이 중동태의 세계에서 잘 드러나는 것 같아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "동생이 전우성 작가의 암기 없이 그림으로 이해되는 수학 개념 사전을 읽고 싶다고 해서 사줬어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 36,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "조셉 앤드류스 내용 스포 좀 해주면 안돼? 정성진 작가 책 너무 궁금해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "블로그에서 제시카 윤 작가의 포레스트 검프 후기 봤는데 다들 극찬하네.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "북클럽에서 다음 달에 김승호 작가의 화가들의 꽃 읽기로 했어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "최소한의 한국사 초판본 구하고 싶은데, 조성민 사인이라도 있으면 좋겠다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "아닐 아난타스와미 작가의 여행의 이유를 읽으면서 많이 울었어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이자벨같은 분위기의 책 또 없어? 김승호 작가 작품이면 더 좋고.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "도서관 신간 코너에 정경훈의 세계 끝의 버섯이 들어왔더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 11,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "중고서점에서 다자이 오사무 작가의 삼총사를 발견해서 바로 샀지.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "히스클리프 전자책으로 나왔나? 마르쿠스 아우렐리우스 책은 소장하고 싶어서.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 17,
+        "end": 28,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "오늘 작가와의 만남 갔는데 만리포 작가가 나는 메트로폴리탄 미술관의 경비원입니다에 대해 이야기 해줬어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 15,
+        "end": 18,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 23,
+        "end": 44,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "지미 송님, 공간 인간 너무 잘 읽었습니다!",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "환율의 대전환을 읽고 나니까 애나 로웬하웁트 칭 작가의 다른 책들도 다 읽고 싶어졌어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 16,
+        "end": 26,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "내 친구가 프란치스코 작가 엄청 좋아해서 빌러비드가 나오자마자 샀대.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "팟캐스트에서 피터 린치 작가가 나와서 죽음은 통제할 수 없지만 인생은 설계할 수 있다에 대해 얘기하더라고.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 21,
+        "end": 47,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "아쿠타미 게게 님 인스타그램 보니까 흰 고래의 흼에 대하여 관련 포스팅 올리셨던데.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 20,
+        "end": 32,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이처럼 사소한 것들의 책 표지 너무 예쁘지 않아? 노무라 유스케 작가 감성이랑 잘 어울려.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "BOOK"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "박한슬 작가 책 중에 의사란 무엇인가 말고 다른 거 추천해 줄 수 있어?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "죽음의 수용소에서를 읽고 필 나이트한테 완전 입덕했잖아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "BOOK"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "김태유 작가가 도슨트처럼 미술관 걷기를 쓰는데 얼마나 걸렸을까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "사피엔스 : 그래픽 히스토리 Vol.2 이거 올리버 색스 작가의 데뷔작이었나?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "type": "BOOK"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "이번 양성관 작가의 넥서스는 전작이랑 분위기가 많이 다르던데.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "혹시 도로테아를 어디서 구할 수 있는지 알아? 박성현 책이라 꼭 보고 싶은데.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "폴 서터 작가의 개츠비 번역본은 나왔으려나?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "야만의 해변에서가 너무 어려워서 포기했어. 김차차 작가 스타일이 나랑 안 맞나 봐.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "다들 CLAMP PREMIUM COLLECTION xxxHOLiC 12가 좋다고 하는데, 난 타치바나 오레코 작가의 예전 작품들이 더 취향이야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 39,
+        "type": "BOOK"
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "진 웹스터 작가가 1984의 후속편도 쓴다고 했던 것 같은데?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "노인과 바다를 읽으면서 NEXON GAMES 작가의 세계관에 감탄했어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "김지훈 작가의 리얼 오키나와 : 미야코 케라마 2025~2026가 영화로 만들어진다면 누가 주인공을 맡으면 좋을까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 35,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "서점에서 우연히 자기만의 방을 발견했는데, 표지에 찰스 로버트 다윈의 이름 보고 바로 집었지.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "type": "BOOK"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "모죠 작가의 범준에 물리다를 읽고 독후감 써야 하는데 막막하다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "닥터 지바고를 다 읽고 나니 아마미야 우리 작가에 대해 더 알고 싶어졌어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "이거 레오르 즈미그로드 작가가 쓴 군주론 맞죠? 표지가 바뀐 것 같아서.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "칼 세이건 작가가 우리는 부활한 예수를 증언한다에 관련해서 강연한다는데 가볼까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 26,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "내 책장에 아닐 아난타스와미 작가 코너가 따로 있는데, 삶의 실력, 장자도 추가해야지.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "울지 않는 늑대 때문에 브라이언 그린 팬미팅 경쟁률 엄청 치열하겠다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "친구가 클라리사를 빌려줬는데, 타츠 유키노부 이름만 보고 기대 중이야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "가와시마 류타 작가의 필체가 벌거벗은 세계사 : 과학편에서 유독 돋보이는 것 같아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 16,
+        "end": 30,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "바틀비를 읽고 나서 로버트 멍어 작가의 다른 인터뷰 찾아봤잖아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "우리 독서 모임 다음 주제가 엔도 슈사쿠인데, 페르디두르케를 읽어 갈까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 16,
+        "end": 22,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "프렌즈 뉴욕은 오건영 작가의 자전적인 이야기가 담겨 있다고 들었어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "헤르만 헤세 작가가 참여한 앤솔로지에 실린 에이든 리스본ㆍ포르투 포르투갈 여행지도 2025-2026의 단편도 좋았어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 24,
+        "end": 55,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "가브로슈 결말 때문에 이중표한테 애증을 느껴.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "BOOK"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "김용성의 피노키오 읽고 문학 작품에 대한 시각이 넓어졌어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "알라딘에서 이승필의 코제트 중고로 싸게 득템했어!",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "톰 소여 읽어보니 왜 제임스 해밀턴 가 천재 소리를 듣는지 알겠다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "BOOK"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "오시로 고가니의 궁궐의 우리 나무 오디오북 버전은 없어?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "논어 읽다가 카를로 로벨리가 숨겨놓은 복선 찾고 소름 돋았어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "BOOK"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "스즈키 유우토는 버터밀크 그래피티 같은 소재를 어디서 영감받는 걸까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "재능이란 뭘까?가 절판됐다는 소문 있던데, 아오야마 고쇼의 책인데 구할 수 있으려나?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "레오르 즈미그로드 작가의 독서의 뇌과학 읽고 비슷한 분위기의 다른 책 찾아보고 있어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "학교 도서관에 신청해서 다자이 오사무의 헨더슨 드디어 들어왔어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "신약 수업 내용이 좀 충격적이었는데, 히노하라 메구루 원래 이런 글 많이 써?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "대니얼 C. 데닛의 불안의 기원 읽고 나면 꼭 관련 평론을 찾아보게 돼.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "공간 인간 너무 슬퍼서 펑펑 울었어. 진 웹스터 감정선 진짜 대박이야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "엘런 데이비스의 문장들은 곱씹을수록 좋아. 한국의 들꽃이 특히 그래.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "프렌즈 오키나와 사려고 했는데 애나 로웬하웁트 칭의 사인본 이벤트 하길래 기다리는 중.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 17,
+        "end": 27,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "이북 리더기에 카를로 로벨리의 책만 모아놨는데, 돈 키호테를 다운받아야겠다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "하루메이 1 책 디자인 바뀐 거 알아? 공자 이름이 더 커졌더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "박태웅의 고도를 기다리며를 읽고 글쓰기에 대한 열정이 다시 생겼어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 5,
+        "end": 13,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "작가노동 선언을 빌리려고 했는데 대출 중이네. 역시 헤르만 헤세이 인기가 많아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "친구가 아쿠타미 게게 엄청 좋아해서 알고 나면 더 가보고 싶은 프랑스 성당을 생일 선물로 주려고.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 11,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 20,
+        "end": 41,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "코렐리를 완독하고 나니 현영준의 차기작이 너무 기다려져.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "캐시 윌리스 에세이집 여학교의 별 1를 읽으면 마음이 편안해져.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "아내를 모자로 착각한 남자 배경이 되는 장소에 직접 가보고 싶어졌어. 후쿠다 신이치 작가 묘사가 너무 생생해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "type": "BOOK"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "서머싯 몸의 에이든 우리나라 전국 여행지도 2025-2026 관련 굿즈도 나왔던데 살까 말까.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 33,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "야 너 신성관 좋아하잖아 이번에 나온 아기공룡둘리 1~5 애장판 세트도 읽음?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 21,
+        "end": 38,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "헐 정경훈 신작 불안 세대가 나왔네 ㄷㄷ 읽어본 덬?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 2,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "미쳤나봐 조영민의 핍 너무 재밌어 ㅠㅠ 너도 꼭 봐",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "마리우스를 읽고 이나모리 가즈오한테 영업당함... 다른 작품 추천 좀",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "BOOK"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "야 ㅋㅋ 이진우의 40일간의 남미 배낭여행 중고로 싸게 샀다 ㅋㅋ 개이득",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 23,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "님들 프랑수아즈 사강 작가 여자의 우정은 첫사랑이다 읽고 인생작 등극함? 나만 그럼?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 11,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 28,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "마음에 힘이 되는 하루 한 문장 영어 필사 빌려줄까? 너 안톤 파블로비치 체호프  스타일 좋아하잖아",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "type": "BOOK"
+      },
+      {
+        "start": 32,
+        "end": 45,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "엠제이 드마코 작가님 소년이 온다 관련해서 인터뷰한 거 좌표 좀 ㅠㅠ",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "아놔 임인홍 무작정 따라하기 오사카·교토·고베·나라 읽다가 밤샘.. 내 눈 ㅠㅠ 책임져 임인홍",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 28,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "생수의 우물 다 읽었는데 여운 개쩐다... 엠제이 드마코님 만수무강하세요",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "너 저번에 추천해준 공감의 시대 작가 콜리 황꺼 맞지? 도서관에 있더라",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "type": "BOOK"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "모건 하우절 작가 방구석 미술관 스포 없이 영업해주실 분 구함 (제발요)",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "국가는 어떻게 무너지는가 사려는데 예판 특전 같은 거 없나? 존 스튜어트 밀껀데 소장각 아님?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "BOOK"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "(질문) 차란 란가나스 이어령의 말 읽으신 분들, 전작이랑 비교하면 어때요?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "ㅋㅋㅋㅋㅋ 이선 몰릭  자기만의 방 읽고 뽕차서 팬아트 그리는 중",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "젭알 NEXON GAMES 작가님 코스모스 영화화 소취 ㅠㅠ 존버한다",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "야 나 고전이 답했다 마땅히 살아야 할 삶에 대하여 선물 받았는데 작가가 모건 하우절임 ㅋㅋ 유명한 사람?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 28,
+        "type": "BOOK"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "마츠모토 나오야 어린 왕자 읽다가 현생 불가... 책임져요 작가님 마츠모토 나오야 엉엉",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "오늘 캐시 윌리스 북토크 갔다가 윤회와 해탈 얘기 듣고 옴 ㅋㅋ 썰푼다",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "백년 공부법 전자책 존버단 승리! 앙투안 드 생텍쥐페리 작가님 사랑해요 ㅠㅠ 바로 결제함",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "네 취향일 것 같아서 톡함 ㅋㅋ 나오미 배런의 야만의 해변에서",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "조성민 작가 신의 일식 굿즈 나온 거 실화냐? 텅장 각 ㅠㅠ 지갑 연다",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "나의 인생 다 읽으면 사와 고지 다음 책 뭐 읽을지 추천 좀 해주라",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "예수의 식탁 이야기 읽고 조혜련 작가님 블로그/트위터 정주행 중... 헤어나올 수 없다",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "BOOK"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "야 후쿠다 신이치 작가 맥베스 이거 드라마 나온다며? 캐스팅 누군지 궁금",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 2,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "혹시 법륜 작가 어제와 똑같은 내가 싫어서 심리학을 공부하기 시작했습니다 오디오북으로 들으신 분? 성우 누구임?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 40,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "싯다르타 결말 스포 당함 ㅅㅂ ㅠㅠ 아니 그걸 왜 말해 김수정 책인데...",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "BOOK"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "김범준 작가 마틸다 테마로 북클럽 하실 분 모집합니다! (온라인 가능)",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "박영선 작가 방구석 미술관 3 어렵다고? 난 술술 읽히던데 ㅋㅋ 니가 이해력 딸리는 듯?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 16,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "일할 사람이 사라진다 같은 갓띵작 또 없습니다... 마르쿠스 아우렐리우스 작가님 차기작 plz 현기증나요",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "BOOK"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "반 친구가 강범구 작가의 프랑켄슈타인 빌려줬는데 완전 내 스탈이야!",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "커뮤에서 타치바나 오레코 작가 데미안 영업글 보고 바로 지름ㅋㅋㅋㅋ",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "야, 총 균 쇠 읽고 있는데 아오야마 고쇼 이 작가 뭐냐... 천재냐?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "오늘 알바비 들어오면 박필 서평가 되는 법 바로 산다 ㄹㅇ",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 12,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "블루 록 : Episode 나기 5 읽는데 등장인물 이름 헷갈려 죽겠음 프란치스코 작가 특징인가",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "type": "BOOK"
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "단톡방에서 누가 임주영 작가 선의의 경쟁 추천해서 읽는 중인데 ㄱㅊ?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 9,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "님들 서승완 작가 미신은 어떻게 사회를 위협하는가 표지 리뉴얼된 거 봄? 존예던데",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 27,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "술라 읽다가 버스 놓침 ㅋㅋㅋㅋ 공자 작가 필력 무엇",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "현영준 작가님 한국의 산꽃 외전 좀 써주세요 제발요 비나이다",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "인생 노잼 시기였는데 이승필 작가 폭싹 속았수다 노랫말 필사집 읽고 광명 찾음",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 34,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "외우지 않는 공부법 사면서 엔도 슈사쿠 작가 다른 책도 같이 지름 ㅋㅋㅋ 텅장잼",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "BOOK"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "옆자리 애가 조혜련의 잘 보이는 성경이야기 읽길래 봤더니 네오쇼코꺼더라 ㅋㅋ 말 걸어볼까",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 7,
+        "end": 23,
+        "type": "BOOK"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "김지훈 작가 스토너 읽고 밤새 토론할 친구 구함 (진지)",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "카밀라 빌리려고 도서관 앱 켰는데 대기 50명 실화냐 사이 몽고메리 인기 ㄷㄷ",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "야 너 찰스 로버트 다윈 좋아하면 이방인 꼭 읽어야 한다 알지?? 강추강추",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 13,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "혹시 김승호의 고독한 용의자는 어디서 구할 수 있어요?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "서점에 갔는데 후쿠오카 신이치의 이제야 보이네만 없더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "Tetsuo Ideuchi 작가 책 중에서 예수가 하려던 말들이 제일 유명하다고?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이번 신작 명탐정 코난 106는 이성웅 스타일 그대로네.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "체호프 단편선은 에크하르트 톨레이니까 쓸 수 있는 이야기 같아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "자연으로 향하는 삶이랑 홍자성의 다른 책이랑 같이 주문했어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "BOOK"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "중고서점에서 이케가야 유지 작가의 이자벨을 발견했지 뭐야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "리얼 제주를 박한슬 작가가 직접 낭독해주면 좋겠다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "혹시 올리버 색스이 쓴 링컨 있냐?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "R. C. 스프로울만큼 글 잘 쓰는 사람 본 적 있냐? 다르덴 형제 시나리오 로나의 침묵, 자전거 탄 소년 읽어봐.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 31,
+        "end": 59,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이처럼 사소한 것들을 읽고 류선규한테 완전 빠졌잖아.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "type": "BOOK"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "서점에 호카조노 타케루 책은 많은데 동물농장만 없어!",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 4,
+        "end": 12,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "안톤 파블로비치 체호프 의 헤르조크 빌려줄 수 있어?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "식물학자의 숲속 일기로 유명한 에크하르트 톨레 작가 알지?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "BOOK"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "오스틀로이드께서 쓰신 롤리타 읽어봤니?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "캐서린에는 제시카 윤의 인생이 담겨 있다던데.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "센딜 멀레이너선 책 중에 이 지랄맞음이 쌓여 축제가 되겠지부터 읽는 거 추천?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 14,
+        "end": 32,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이상한 나라의 앨리스 읽고 찰스 디킨스 팬 됐다니까 ㅋㅋ",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "BOOK"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "평범한 경음부 2 얘기 그만하고 브라이언 헤어 신작 소식이나 알려줘.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "허클베리 핀 때문에 한강 작가님 인스타 팔로우함.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "모순 말고 프란츠 카프카 다른 책 뭐 봄?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "type": "BOOK"
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "명상록 읽고 우는 사람 = 나 ㅋㅋ 룰루 밀러 감성 미쳤음.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "리얼 국내여행 덕분에 임주영을 알게 돼서 고마워.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "현영준 책이라고는 헤다 가블러밖에 안 읽어봤네.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "김범준의 세계관은 모리스에서 정점을 찍은 듯.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "예술에 대한 여덟 가지 답변의 역사 이후로 캐시 윌리스님 소식이 없네...",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 19,
+        "type": "BOOK"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "브라이언 헤어가 직접 엘리너 올리펀트 낭독하는 영상 없나?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "김기덕 책인데 정확한 사랑의 실험 왜 이렇게 안 팔리냐? (의아)",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 18,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "프랑켄슈타인 얘기만 나오면 후쿠다 신이치 팬들 흥분함 ㅋㅋ",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "삼총사 결말 때문에 히노하라 메구루 욕하는 사람도 있더라.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "이케가야 유지의 작품 중에서 일할 사람이 사라진다를 제일 아껴.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "이은희의 글빨은 마법 같은 영상 제작을 위한 스마트폰 촬영 및 편집 with 캡컷에서도 여전하네.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 9,
+        "end": 45,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "고민 숏컷의 기술 표지만 보고 샀는데 임인홍거라 놀람.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "type": "BOOK"
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "요한 볼프강 폰 괴테의 리얼 나고야를 읽고 감동받았어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "옥성득가 사피엔스 : 그래픽 히스토리 Vol.1 집필하면서 고생 많이 했대.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 5,
+        "end": 26,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "시스터 캐리 덕분에 CLAMP한테 제대로 입덕했어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "폴 서터 책 중에선 필 스터츠의 내면강화가 단연 최고라고 생각해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 11,
+        "end": 22,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "나는 빠리의 택시운전사 나오기를 타츠 유키노부 팬들이 얼마나 기다렸는데!",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "에크하르트 톨레 작품으로는 역사의 쓸모가 나에게 첫 경험이야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "넥서스 읽다가 카를로 로벨리가 정말 천재임을 느꼈다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "잠근 동산에는 피터 린치의 초기 감성이 잘 드러난대.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "한국인의 탄생 사면서 후쿠다 신이치의 다른 책들도 같이 질렀어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "BOOK"
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "넥서스에서도 드니스 글렌 특유의 유머 감각이 돋보여.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "BOOK"
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "엘런 데이비스 이름만 보고 자디그 빌렸는데 완전 성공했어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "초역 부처의 말 필사집 읽으니까 프랜시스 스콧 피츠제럴드의 다음 작품이 더 기대돼.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 31,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "우리는 부활한 예수를 증언한다는 아이다이로의 대표작으로 알려졌지.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "루이스 캐럴의 빌레트만큼은 꼭 소장하고 싶어서 샀어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "기기묘묘 방랑길에는 나오미 배런만의 철학이 담겨 있다고 봐.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "BOOK"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "피터 린치께서 헤다 가블러를 집필하신 과정을 듣고 싶다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "마츠모토 나오야가 헤리티지 구상하느라 밤을 새웠다는 일화가 유명해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "서양미술사엔 어니스트 헤밍웨이의 개인적인 경험이 투영되었을까?",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 7,
+        "end": 16,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "마음에 힘이 되는 하루 한 문장 영어 필사를 통해 호리코시 코헤이를 더 깊이 이해하는 계기가 됐어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "type": "BOOK"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "오블로모프는 다자이 오사무 아니면 누구도 쓸 수 없었을 거야.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "지미 송의 책 중에선 거울나라의 앨리스가 가장 여운이 깊었어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "일의 감각을 읽고 나서 원영의 다른 작품들을 찾아봤지.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "type": "BOOK"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "김용성의 작품으로는 줍는 순간이 입문작으로 좋다고 생각해.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "디스 이즈 스페인 This is Spain를 읽다가 아쿠타미 게게가 왜 거장인지 새삼 느꼈다.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "type": "BOOK"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "봇치·더·록! 앤솔러지 코믹 3에는 전우성의 젊은 날의 고민이 담겨 있대.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "type": "BOOK"
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "드디어 만나는 경제학 수업에서도 조지 오웰의 특유의 날카로운 통찰력이 빛나.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "type": "BOOK"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": "AUTHOR"
+      }
+    ]
+  },
+  {
+    "text": "호시노 미즈키 이름만 믿고 데미안을 빌렸는데 후회 없어.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "type": "AUTHOR"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "type": "BOOK"
+      }
+    ]
+  },
+  {
+    "text": "프렌즈 뉴욕을 읽으니까 드니스 글렌의 다음 행보가 더욱 궁금해져.",
+    "intent": 0,
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "type": "BOOK"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "type": "AUTHOR"
+      }
+    ]
+  }
+]

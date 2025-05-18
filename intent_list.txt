@@ -1,0 +1,40 @@
+0: 'search_book_title',         # 특정 책 제목 검색
+1: 'search_book_author',        # 특정 작가 책 검색
+2: 'search_book_location',      # 특정 도서 위치 검색
+3: 'check_book_availability',   # 도서 대출 가능 여부 확인
+4: 'get_bestseller',            # 베스트셀러 요청
+5: 'get_new_releases',          # 신간 요청
+6: 'request_recommendation_genre', # 장르 기반 추천
+7: 'request_recommendation_mood',  # 분위기/상황 기반 추천 *거절
+8: 'request_recommendation_topic', # 특정 주제/소재 기반 추천 
+9: 'request_recommendation_similar',# 특정 책과 비슷한 책 추천
+10: 'request_recommendation_reader',# 특정 독자층 대상 추천 *거절
+11: 'search_space_availability', # 공간 이용 가능 여부 검색 *안내
+12: 'reserve_space',             # 특정 공간 예약 요청 *안내
+13: 'get_space_info',            # 특정 종류/이름의 공간 정보 문의 
+14: 'check_space_reservation',   # 자신의 공간 예약 내역 확인 *안내
+15: 'cancel_space_reservation',  # 공간 예약 취소 요청 *안내
+16: 'search_program',            # 특정 조건의 프로그램/강좌 검색 *안내
+17: 'apply_program',             # 특정 프로그램/강좌 신청 요청 *안내
+18: 'get_program_info',          # 특정 프로그램/강좌 상세 정보 문의 *안내
+19: 'check_program_application', # 자신의 프로그램 신청 내역 확인 *안내
+20: 'cancel_program_application',# 프로그램 신청 취소 요청 *안내
+21: 'get_library_hours',          # 도서관 정보 문의 (운영시간, 휴관일, 와이파이 등) *안내
+22: 'inquire_service',           # 특정 서비스 이용 문의 (프린트, 복사, 노트북 대여 등) *안내
+23: 'manage_membership',         # 회원 가입, 탈퇴, 회원증 재발급 등 문의/요청
+24: 'check_loan_status',         # 자신의 대출 현황 확인 *안내
+25: 'extend_loan',               # 대출 연장 요청 *안내
+26: 'reserve_book',              # 도서 예약 요청 *안내
+27: 'check_reservation_status',  # 자신의 도서 예약 현황 확인 *안내
+28: 'cancel_book_reservation',   # 도서 예약 취소 요청 *안내
+29: 'check_overdue_status',      # 연체 정보 및 연체료 확인 *안내
+30: 'report_lost_item',          # 분실물(회원증, 도서 등) 신고 *안내
+31: 'greeting',                  # 인사
+32: 'gratitude',                 # 감사
+33: 'closing',                   # 대화 종료
+34: 'affirmative',               # 긍정
+35: 'negative',                  # 부정
+36: 'abuse',                     # 모욕
+37: 'clarification',             # 추가 설명 요청 / 모호함 해소 요청
+38: 'out_of_scope',              # 모델 능력 밖의 질문 / 처리 불가 안내
+39: 'repeat',                    # 이전 내용 반복 요청
